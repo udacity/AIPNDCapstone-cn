@@ -39,7 +39,6 @@
 		（原始数据
 		<a href="https://www.kaggle.com/blastchar/telco-customer-churn" rel="nofollow">kaggle</a>
 		地址）
-
 		</td>
 		<td>
 		为某集团打造用户分层模型：
