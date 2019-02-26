@@ -15,7 +15,7 @@
     </tr>
     <tr>
 		<td>
-		<a href="https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/AIPND/HS300.zip" rel="nofollow"><strong>HS300大盘数据</strong></a>
+		<strong>HS300大盘数据</strong>
 		</td>
 		<td>
 		利用机器学习模型预测股票走势：
