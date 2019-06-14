@@ -35,7 +35,7 @@
 		</td>
     </tr>
     <tr>
-		<td><a href="https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/AIPND/lending-club-loan-data.zip" rel="nofollow"><strong>telcom-churns-dataset</strong></a>
+		<td><a href="https://static-documents.s3.cn-north-1.amazonaws.com.cn/telco-customer-churn.zip" rel="nofollow"><strong>telcom-churns-dataset</strong></a>
 		（原始数据
 		<a href="https://www.kaggle.com/blastchar/telco-customer-churn" rel="nofollow">kaggle</a>
 		地址）
